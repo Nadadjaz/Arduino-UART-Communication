@@ -80,10 +80,10 @@ GND ─────────────────────────�
 
 ```
 Arduino-UART-Communication/
-├── emission/
-│   └── emission.ino       # Emitter code (buttons → signal)
-├── reception/
-│   └── reception.ino      # Receiver code (signal → LEDs)
+├── emission.ino
+│   # Emitter code (buttons → signal)
+├── reception.ino
+│   # Receiver code (signal → LEDs)
 └── README.md
 ```
 
